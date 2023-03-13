@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T00:25:12.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pOCF-bo4BYm8kWdVaKNx" version="20.6.2" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">3Vlbd9o4EP41nD7B8QVMeAwkzV6yPd2T3WbztEfYwlZjS64kAuTXd2TJF2FDaQJNywu2RqOxNN/Mp5Ho+bNsfcNRnvzFIpz2PCda9/yrnue5rjeEh5JstGQ8drUg5iQySrXgjjxjI3SMdEkiLCxFyVgqSW4LQ0YpDqUlQ5yzla22YKn91RzFuCW4C1Halt6TSCZaeuGNa/lvmMRJ+WU3mOieDJXKZiUiQRFbNUT+dc+fccakfsvWM5wq55V+uf99c5/ePgY3f/wtvqB/p3/+8+FTXxt7/z1DqiVwTOVxTfva9BNKl8Zfl9C8/6gAWQrJMszVyjHiYQIoAiRqIukyJhReKMpwBM93Isc4TPqS9SVeSxUtJJRIEkbfqRmAboCyvOdP6VyoRyKlgv9SzdZ7v2I8yjkWYsB4DG1tXxSdhePlpkSTsyWNsFqRC2ZWCZH4Lkeh6l1B/Bams9R0LxiVJiBdQGsap0ioaHLgXUjOHquIUNoVvKr7QI8bZJ4wh3U34s0gcIPBgZJvQMX0+mXcmWwamdha1aHpTkzGJY2wHBs9ZLIhrizXiMOLAb07AFYsRrPF8JPzefYQkmfq/j/P+hctF+MI8sc0GZcJixlF6XUtndYgKFfVOreM5caZn7GUG+N7tJTMBgavifxPDR+MTOuh0XO1NpaLxqZsUFhuY5BqPjT76mFFa2MhqRa1xQeHQSvYkod4n15JaojHWO7x9I7A4DiFRHmyZ/camPfO8huJzvEC8tBkOlXTW+G5okglYAu1zATrX8LL8aAiIA973kzzg53qGQk5yxNG1TiSKbYGrTwHSlFGqeYLiBCQqnXYo6t2Cq6dEpovC+1NrhcRfFkq9p1q1ilb1aBYt2ApiqVsW2oIxABqKS8ITiNhaMust/JF3zjj3GjJHVq05E3avFTtg01emhyBl7qX4B0UsOAamjIUiQpl2DgkBJKosNu9NzW3MkKLEOwO7HNDe+haaLvjjl0oCNpoX5xqF3IOK0OANB5rpAGrOkMNtppYtnglZBxYLWc0IjRuEcFLSYXx13HKz8Imrbg5NOQOZpOgI75Oxibde6/TcvKPKHPevmTZXYkcULE43SgfvWLpnmTQ5oQ0hdjtAvIWzeHYajkfpSSm8B6Cz4A9/KmKcwLnwkvTkZEo0jhjQZ7RvLCn3J8z2AyK5YymvdHVvkQxh1YzuFcFdROqPQG5M4P6zgAOouaocLC/jbmPav4NdrcHsMVCAOrb8FRzeAVi3tsmmZVidcb95EnmvWmSjVpJdkUEOqM82+FeY94ZOG5gb1buL5Z0B1VOYUrCx7okhvqkqFfm0BcUNUr3KU2VWdua2yc0VcbM1TVd8SEk9n6mMSUTZLqMiiDoFLZdY7Qta4JFVVdUg+3aKWHZfCm+XTedrvixb3iGfkfx43Zc8bgnu+NpH6U+FMftUB+Czqz6DMpirwTgYjwYtSBw/Y7zzWh0IgTa16xteqXRpbruVlSqnEhC29P2RvmSG7Qj7ni775LbsDScPuqo+UvZSwm3TLvJFurBVjbp6ZtRzWvyLUNDb2s/2E5LvaO3DB2L0Ntl7xmGyq5t+RePldYB9sWxAs36jyWtXv89519/BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-13T00:25:53.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6rEpgOGxKDWjOa1UcLFN" version="20.6.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1124" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="A WP customer searches a plugin named &#39;speech-to-text dictation&#39; in&amp;nbsp;https://wordpress.org/plugins/" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="327" y="50" width="194" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="wogaCf4V0jCYcizn1_bm-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="A WP customer refreshes any webpages of the their WP website, a&amp;nbsp;microphone image appears next to all&amp;nbsp;&amp;lt;input type=&quot;text&quot;&amp;gt; and &amp;lt;textarea&amp;gt; fields in the any web-pages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="314" y="290" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="A WP customer downloads and installs the speech-to-text dictation plugin into their WP website" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="341" y="170" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-0" value="A WP customer speaks and then the text appear next to corresponding &amp;lt;input type=&quot;text&quot;&amp;gt; or &amp;lt;textarea&amp;gt; fields in the web-pages" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="314" y="670" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wogaCf4V0jCYcizn1_bm-1" target="wogaCf4V0jCYcizn1_bm-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-16" value="Allow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wogaCf4V0jCYcizn1_bm-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.1167" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wogaCf4V0jCYcizn1_bm-1" target="wogaCf4V0jCYcizn1_bm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-15" value="Disallow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wogaCf4V0jCYcizn1_bm-12" vertex="1" connectable="0">
+          <mxGeometry x="0.0164" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-1" value="A WP customer clicks the &lt;br&gt;microphone image and&lt;br&gt;&amp;nbsp;web-browser asks the &lt;br&gt;customer allow or disable &lt;br&gt;the microphone to speak" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="317" y="430" width="214" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-2" value="No action" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="610" y="487.5" width="136" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="424" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wogaCf4V0jCYcizn1_bm-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="424" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
